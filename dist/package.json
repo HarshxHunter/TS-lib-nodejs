@@ -1,10 +1,14 @@
 {
-    "name": "@footballuser/playerstats",
-    "version": "0.0.1",
-    "description": "Trying to use in node js",
+    "name": "ts-lib-nodejs",
+    "version": "0.0.2",
+    "description": "Trying to use TS Lib in node js",
     "main": "lib/es5/index.js",
     "module": "lib/es6/index.js",
     "sideEffects": false,
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/HarshxHunter/TS-lib-nodejs"
+    },
     "files": [
       "lib",
       "CHANGELOG.md",
@@ -13,9 +17,8 @@
       "README.md"
     ],
     "keywords": [
-      "javascript",
-      "utils",
-      "utilities"
+      "Typescript",
+      "Node js"
     ],
     "author": "Harsh Kaira",
     "license": "MIT"
